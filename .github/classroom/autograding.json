@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "\"><s>lll</s>",
+      "setup": "\"><s>1</s>",
+      "run": "\"><s>22s>",
+      "input": "\"><s>33</s>",
+      "output": "\"><s>44</s>",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
