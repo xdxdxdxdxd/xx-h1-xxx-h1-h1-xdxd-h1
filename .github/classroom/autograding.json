@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "XX\"><h1>XXX</h1>",
+      "setup": "XX\"><h1>XXX</h1>",
+      "run": "XX\"><h1>XXX</h1>",
+      "input": "XX\"><h1>XXX</h1>",
+      "output": "XX\"><h1>XXX</h1>",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
